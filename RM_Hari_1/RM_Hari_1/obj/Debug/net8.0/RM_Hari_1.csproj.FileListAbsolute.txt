@@ -1,0 +1,14 @@
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\bin\Debug\net8.0\RM_Hari_1.exe
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\bin\Debug\net8.0\RM_Hari_1.deps.json
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\bin\Debug\net8.0\RM_Hari_1.runtimeconfig.json
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\bin\Debug\net8.0\RM_Hari_1.dll
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\bin\Debug\net8.0\RM_Hari_1.pdb
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\RM_Hari_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\RM_Hari_1.AssemblyInfoInputs.cache
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\RM_Hari_1.AssemblyInfo.cs
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\RM_Hari_1.csproj.CoreCompileInputs.cache
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\RM_Hari_1.dll
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\refint\RM_Hari_1.dll
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\RM_Hari_1.pdb
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\RM_Hari_1.genruntimeconfig.cache
+C:\Users\Sofian Bahtiar\source\repos\RM_Hari_1\RM_Hari_1\obj\Debug\net8.0\ref\RM_Hari_1.dll

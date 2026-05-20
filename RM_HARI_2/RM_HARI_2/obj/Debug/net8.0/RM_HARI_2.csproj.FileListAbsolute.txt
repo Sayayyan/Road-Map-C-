@@ -1,0 +1,14 @@
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\bin\Debug\net8.0\RM_HARI_2.exe
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\bin\Debug\net8.0\RM_HARI_2.deps.json
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\bin\Debug\net8.0\RM_HARI_2.runtimeconfig.json
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\bin\Debug\net8.0\RM_HARI_2.dll
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\bin\Debug\net8.0\RM_HARI_2.pdb
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\RM_HARI_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\RM_HARI_2.AssemblyInfoInputs.cache
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\RM_HARI_2.AssemblyInfo.cs
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\RM_HARI_2.csproj.CoreCompileInputs.cache
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\RM_HARI_2.dll
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\refint\RM_HARI_2.dll
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\RM_HARI_2.pdb
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\RM_HARI_2.genruntimeconfig.cache
+C:\Users\Sofian Bahtiar\source\repos\RM_HARI_2\RM_HARI_2\obj\Debug\net8.0\ref\RM_HARI_2.dll
