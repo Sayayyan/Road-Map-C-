@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sofian Bahtiar\\source\\repos\\RM_HARI_3\\RM_HARI_3\\RM_HARI_3.csproj",
+      "projectUniqueName": "D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\RM_HARI_3.csproj",
       "projectName": "RM_HARI_3",
-      "projectPath": "C:\\Users\\Sofian Bahtiar\\source\\repos\\RM_HARI_3\\RM_HARI_3\\RM_HARI_3.csproj",
+      "projectPath": "D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\RM_HARI_3.csproj",
       "packagesPath": "C:\\Users\\Sofian Bahtiar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sofian Bahtiar\\source\\repos\\RM_HARI_3\\RM_HARI_3\\obj\\",
+      "outputPath": "D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sofian Bahtiar\\source\\repos\\RM_HARI_3\\",
+  "WorkspaceRootPath": "D:\\RoadMapC#\\RM_HARI_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4482004E-DFF6-4A42-AD40-0FD8DBC93FA9}|RM_HARI_3\\RM_HARI_3.csproj|c:\\users\\sofian bahtiar\\source\\repos\\rm_hari_3\\rm_hari_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4482004E-DFF6-4A42-AD40-0FD8DBC93FA9}|RM_HARI_3\\RM_HARI_3.csproj|solutionrelative:rm_hari_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RM_HARI_3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\RM_HARI_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RM_HARI_3\\RM_HARI_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RM_HARI_3.csproj",
+              "DocumentMoniker": "D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\RM_HARI_3.csproj",
+              "RelativeDocumentMoniker": "RM_HARI_3\\RM_HARI_3.csproj",
+              "ToolTip": "D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\RM_HARI_3.csproj",
+              "RelativeToolTip": "RM_HARI_3\\RM_HARI_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T12:54:12.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sofian Bahtiar\\source\\repos\\RM_HARI_3\\RM_HARI_3\\Program.cs",
+              "DocumentMoniker": "D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\Program.cs",
               "RelativeDocumentMoniker": "RM_HARI_3\\Program.cs",
-              "ToolTip": "C:\\Users\\Sofian Bahtiar\\source\\repos\\RM_HARI_3\\RM_HARI_3\\Program.cs",
+              "ToolTip": "D:\\RoadMapC#\\RM_HARI_3\\RM_HARI_3\\Program.cs",
               "RelativeToolTip": "RM_HARI_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T12:32:59.678Z",
               "EditorCaption": ""

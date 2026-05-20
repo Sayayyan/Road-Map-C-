@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RM_HARI_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31218b250af3628f01c6b5b2081a312c40ebdaf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RM_HARI_3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RM_HARI_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

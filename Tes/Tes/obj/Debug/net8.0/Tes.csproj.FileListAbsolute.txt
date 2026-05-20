@@ -1,0 +1,15 @@
+D:\RoadMapC#\Tes\Tes\bin\Debug\net8.0\Tes.exe
+D:\RoadMapC#\Tes\Tes\bin\Debug\net8.0\Tes.deps.json
+D:\RoadMapC#\Tes\Tes\bin\Debug\net8.0\Tes.runtimeconfig.json
+D:\RoadMapC#\Tes\Tes\bin\Debug\net8.0\Tes.dll
+D:\RoadMapC#\Tes\Tes\bin\Debug\net8.0\Tes.pdb
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.GeneratedMSBuildEditorConfig.editorconfig
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.AssemblyInfoInputs.cache
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.AssemblyInfo.cs
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.csproj.CoreCompileInputs.cache
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.sourcelink.json
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.dll
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\refint\Tes.dll
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.pdb
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\Tes.genruntimeconfig.cache
+D:\RoadMapC#\Tes\Tes\obj\Debug\net8.0\ref\Tes.dll
